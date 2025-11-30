@@ -1,0 +1,3 @@
+[[annotation]]
+file=/home/pwj/kggsv/test/kggseq_version.txt.ecc
+type=gene
